@@ -1,0 +1,22 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhisoni927/React_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nidhisoni927/React_practice/issues"
+  },
+  "homepage": "https://github.com/nidhisoni927/React_practice#readme"
+}
